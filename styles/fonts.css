@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Rb_lg';
+  src: url(../fonts/Rubik-Light.ttf);
+}
+
+@font-face {
+  font-family: 'Rb_reg';
+  src: url(../fonts/Rubik-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Rb_sb';
+  src: url(../fonts/Rubik-SemiBold.ttf);
+}
