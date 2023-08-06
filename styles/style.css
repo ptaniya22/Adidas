@@ -159,6 +159,10 @@ a {
   gap: 20px;
 }
 
+.information-pic {
+  width: 100%;
+}
+
 /* -----Section categories------ */
 
 .categories__title {
